@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: Hamburger.
+I like to hear: New Americana by Halsey, but tomorrow it'll be a different song.. (:
+My hobbies are Comupters and Motor Sport.
 
-I would like to travel to <XXXX>.
+I would like to travel to USA.
 
-"<Your favorite quote goes here>".
+"We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard".
